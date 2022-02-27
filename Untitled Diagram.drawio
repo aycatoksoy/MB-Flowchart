@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T20:29:41.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.70" etag="6ViVf_cvzQCvsNLk-oqb" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T20:36:24.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.70" etag="IgQP1xRNAJ0nuEIx1abK" version="16.6.4" type="github">
   <diagram id="dFWF5zn0QugjdTZb5leU" name="Page-1">
     <mxGraphModel dx="997" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,8 +183,48 @@
         <mxCell id="zYvr2jX2mmX5dFNxnvae-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=10;targetPerimeterSpacing=4;strokeWidth=1;" edge="1" parent="1" source="zYvr2jX2mmX5dFNxnvae-39" target="zYvr2jX2mmX5dFNxnvae-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endSize=10;targetPerimeterSpacing=4;strokeWidth=1;" edge="1" parent="1" source="zYvr2jX2mmX5dFNxnvae-39" target="zYvr2jX2mmX5dFNxnvae-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zYvr2jX2mmX5dFNxnvae-39" value="Dewatering Building" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=10;targetPerimeterSpacing=4;strokeWidth=1;" edge="1" parent="1" source="zYvr2jX2mmX5dFNxnvae-42" target="zYvr2jX2mmX5dFNxnvae-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-42" value="Sludge Buffer and Mixing Tank" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-44" value="Sludge Digester" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-47" value="Gas Storage Tank" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="425" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endSize=10;targetPerimeterSpacing=4;strokeWidth=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="zYvr2jX2mmX5dFNxnvae-49" target="zYvr2jX2mmX5dFNxnvae-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="453" />
+              <mxPoint x="610" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=10;targetPerimeterSpacing=4;strokeWidth=1;" edge="1" parent="1" source="zYvr2jX2mmX5dFNxnvae-49" target="zYvr2jX2mmX5dFNxnvae-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-49" value="Secondary Clarifier" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;targetPerimeterSpacing=4;strokeWidth=1;" edge="1" parent="1" source="zYvr2jX2mmX5dFNxnvae-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-51" value="UV Disinfection and Microfiltration" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zYvr2jX2mmX5dFNxnvae-55" value="Effluent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="455" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
